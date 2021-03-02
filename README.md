@@ -1,4 +1,8 @@
 ### Hi there 👋
+:information_desk_person: *Welcome to my Github Profile*
+:blush: 
+### I am Sneha Menon Pursuing BE in the stream of Computer. 
+
 
 <!--
 **snehaamenon/snehaamenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
