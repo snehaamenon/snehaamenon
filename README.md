@@ -1,13 +1,13 @@
 ### Hi there 👋
 :information_desk_person: *Welcome to my Github Profile*
-* :blush: 
-* #About Me:
+ :blush: 
+ ###About Me:
 * I am Sneha Menon Pursuing my BE in the stream of Computer from Bharati Vidyapeeth's College of Engineering Lavale Pune. 
 * My Interest Lies in Web Dev as well as Data Science 
 * I am Proficient in C++ , Java , Mysql , Python , Data Analytics ,Data Visualisation, HTML , CSS and Bootstrap.
 * I have done two Internships in the field of Data Science. 
 * I am open to Opportunities where i can learn and grow and also enhance my skills.
-## :blue-heart: You can connect with me on [Linkedin](https://www.linkedin.com/in/snehaamenon) 
+*  :blue_heart: You can connect with me on [Linkedin](https://www.linkedin.com/in/snehaamenon) 
 
   
 
